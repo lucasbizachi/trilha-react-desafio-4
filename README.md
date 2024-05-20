@@ -1,3 +1,15 @@
+# Desafio 04 - Tela Login React/TypeScript 
+
+Neste projeto, foi desenvolvida uma tela de login utilizando React e TypeScript. A tela de login foi implementada com sucesso, permitindo que os usuários insiram suas credenciais para acessar o sistema.
+
+A funcionalidade de autenticação foi implementada de forma eficaz, garantindo que apenas usuários autorizados possam fazer login. Foram utilizados os conceitos aprendidos em TypeScript para garantir a segurança e integridade do sistema.
+
+Além disso, foram aplicadas validações nos campos de entrada, assegurando que as informações inseridas pelos usuários estejam corretas e em conformidade com os critérios estabelecidos.
+
+Durante o desenvolvimento deste projeto, foram aplicados os princípios e conceitos aprendidos durante o módulo sobre TypeScript, incluindo o uso de interfaces, tipos genéricos e tipos de união, para melhorar a qualidade e a segurança do código.
+
+No geral, o projeto foi concluído com sucesso, proporcionando uma experiência de login robusta e profissional para os usuários, ao mesmo tempo em que demonstra o domínio dos conceitos de React e TypeScript.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
